@@ -6,7 +6,7 @@ This project is a PyTorch reimplementation and extension of the **Transformer in
 
 ---
 
-#You can use the train_colab(fullcode).ipynb
+# You can use the train_colab(fullcode).ipynb
 
 ## 🚀 Features
 
