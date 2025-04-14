@@ -19,6 +19,4 @@ This project is a PyTorch reimplementation and extension of the **Transformer in
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/rtnt.git
-cd rtnt
 pip install -r requirements.txt
